@@ -3,8 +3,10 @@
 
 👩🏽‍💻 Delphi Developer 
 ##  
-📚 Estudante back-end em C#
 <p>👩🏽‍🎓 <em>Sistemas de Informação - <a href="https://www.unoesc.edu.br/">Unoesc Chapecó </a></br>
+<p>📚 <em>Estudante Full Stack C# - <a href="https://web.digitalinnovation.one/">Digital Innovation One</a></br>
+  
+  
 
 <div align="center">
   <a href="https://github.com/tayane">
