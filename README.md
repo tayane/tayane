@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/tayane">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tayane&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayane&layout=compact&langs_count=7&theme=radical"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=tayane&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayane&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Tay-Delphi" height="40" width="40" src="https://www.andreamagni.eu/images/SDriver.png">
