@@ -14,7 +14,7 @@
   <img align="center" alt="Tay-Delphi" height="40" width="40" src="https://www.andreamagni.eu/images/SDriver.png">
   <img align="center" alt="Tay-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
   <img align="center" alt="Tay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="https://github.com/tayane/tayanemello/blob/main/avatarTay.png?width=676&height=676">
+  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="https://github.com/tayane/tayane/blob/main/avatarTay.png?width=676&height=676">
 </div>
 
 ##
