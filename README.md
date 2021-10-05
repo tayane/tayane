@@ -1,4 +1,5 @@
-# Hello World 🌍 I'm Tayane Mello, lover technology and coding 🙋🏽‍♀️
+# Hello World 🌍
+# I'm Tayane Mello, lover technology and coding 🙋🏽‍♀️
 
 👩🏽‍💻 Delphi Developer 
 ##  
