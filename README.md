@@ -3,7 +3,7 @@
 
 👩🏽‍💻 Delphi Developer 
 ##  
-📚 Estudando C# (C Sharp) e Python
+📚 Estudante back-end em C#
 
 <div align="center">
   <a href="https://github.com/tayane">
