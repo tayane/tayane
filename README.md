@@ -1,6 +1,6 @@
-## Olá, eu sou a Tayane Mello 🙋‍♀️
+## Olá, eu sou a Tayane Mello 🙋🏽‍♀️
 
-💻 Delphi Developer at www.angellira.com
+👩🏽‍💻 Delphi Developer at www.angellira.com
 ##  
 📚 Estudando C# (C Sharp) e Python
 
