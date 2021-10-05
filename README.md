@@ -4,6 +4,7 @@
 👩🏽‍💻 Delphi Developer 
 ##  
 📚 Estudante back-end em C#
+<p>👩🏽‍🎓 <em>Sistemas de Informação - <a href="https://www.unoesc.edu.br/">Unoesc Chapecó </a></br>
 
 <div align="center">
   <a href="https://github.com/tayane">
