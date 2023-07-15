@@ -1,7 +1,7 @@
 # Hello World 🌍
 # I'm Tayane Mello, lover technology and coding 🙋🏽‍♀️
 
-👩🏽‍💻 Delphi Developer II
+👩🏽‍💻 GO | Delphi Developer II
  
 <p>👩🏽‍🎓 <em>Sistemas de Informação - <a href="https://www.unoesc.edu.br/">Unoesc Chapecó </a></br>
 <p>📚 <em>Estudante Full Stack C# - <a href="https://web.digitalinnovation.one/">Digital Innovation One</a></br>
