@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-  <a href="https://instagram.com/tay.mello" target="_blank">
+  <a href="https://instagram.com/taymellodev" target="_blank">
     <img height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/174/174855.png">
   </a>
   <a href="mailto:tayane.mello5@gmail.com">
