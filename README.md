@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  👩🏽‍💻 GO | Delphi Developer II<br>
+  👩🏽‍💻 GO | Delphi Developer<br>
   👩🏽‍🎓 Sistemas de Informação — <a href="https://www.unoesc.edu.br/">Unoesc Chapecó</a>
 </p>
 
